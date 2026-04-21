@@ -44,8 +44,8 @@ stock-risk-analysis/
 │   ├── volatility.xlsx
 │   ├── beta.xlsx
 │   └── correlation_matrix.xlsx
-├── notebooks/
-│   └── analysis.ipynb
+├── src/
+│   └── stock.py
 └── README.md
 ```
 
